@@ -10,6 +10,11 @@ Font Awesome has 5 fonts. Four fonts for each icon in four styles and fifth font
 |Font Awesome Duotone|fad|
 |Font Awesome Brands|fab|
 
+__URL - Direct Link__
+```url
+https://akash-profile.github.io/icons/fontawesome.css
+```
+
 __Syntax__
 ```html
 <i class="class_name fa-icon_name"></i>
@@ -26,6 +31,11 @@ It has five fonts for five styles of every icon.
 |Material Icons Sharp|sharp|
 |Material Icons Two Tone|two-tone|
 
+__URL - Direct Link__
+```url
+https://akash-profile.github.io/icons/material-icons.css
+```
+
 __Syntax__
 ```html
 <i class="mi-class_name">ligature_name</i>
@@ -40,6 +50,10 @@ It has three fonts for three styles.
 |Material Symbols Rounded|rounded|
 |Material Symbols Filled|filled|
 
+__URL - Direct Link__
+```url
+https://akash-profile.github.io/icons/material-symbols.css
+```
 __Syntax__
 ```html
 <i class="ms-class_name">ligature_name</i>
