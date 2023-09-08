@@ -21,8 +21,8 @@ It has five fonts for five styles of every icon.
 |Font Name|Class Name|
 |---|-----|
 |Material Icons Outlined|outlined|
-|Material Icons Filled|filled|
 |Material Icons Rounded|rounded|
+|Material Icons Filled|filled|
 |Material Icons Sharp|sharp|
 |Material Icons Two Tone|two-tone|
 
@@ -31,3 +31,23 @@ __Syntax__
 <i class="mi-class_name">ligature_name</i>
 ```
 Each icon is an inline-block level element.
+
+## Material Symbols
+It has three fonts for three styles.
+|Font Name|Class Name|
+|---|-----|
+|Material Symbols Outlined|outlined|
+|Material Symbols Rounded|rounded|
+|Material Symbols Filled|filled|
+
+__Syntax__
+```html
+<i class="ms-class_name">ligature_name</i>
+```
+Each icon is an inline-block level element. Every icon supports four variations
+|Variable Axis|Description|
+|:---:|-----|
+|wght|Modifies thickness of stroke|
+|opsz|Modifies optical size of icon|
+|FILL|It transits from unfilled to filled state by taking values from 0 to 1|
+|GRAD|It modifies the emphasis of icon with respect to background|
