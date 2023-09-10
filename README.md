@@ -73,5 +73,11 @@ font-weight: 24px;
 
 /* 'opsz' Both will produce same result */
 font-variation-settings: 'opsz' 24px;
-font-optical-sizing: 24px
+font-optical-sizing: 24px;
+
+/* FILL */
+font-variation-settings: 'FILL' 0.5;
+
+/* GRAD */
+font-variation-settings: 'GRAD' 0.5;
 ```
