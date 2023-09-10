@@ -79,5 +79,5 @@ font-optical-sizing: 24px;
 font-variation-settings: 'FILL' 0.5;
 
 /* GRAD */
-font-variation-settings: 'GRAD' 0.5;
+font-variation-settings: 'GRAD' 200;
 ```
