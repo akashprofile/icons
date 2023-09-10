@@ -65,3 +65,11 @@ Each icon is an inline-block level element. Every icon supports four variations
 |opsz|Modifies optical size of icon|
 |FILL|It transits from unfilled to filled state by taking values from 0 to 1|
 |GRAD|It modifies the emphasis of icon with respect to background|
+
+'''css
+/* Both will produce same results */
+font-variation-settings: 'wght' 24px;
+font-weight: 24px;
+
+
+'''
