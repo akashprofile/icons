@@ -67,9 +67,10 @@ Each icon is an inline-block level element. Every icon supports four variations
 |GRAD|It modifies the emphasis of icon with respect to background|
 
 ```css
-/* Both will produce same results */
+/* Both will produce same result */
 font-variation-settings: 'wght' 24px;
 font-weight: 24px;
 
+/* Both will produce same result */
 
 ```
