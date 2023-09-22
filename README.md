@@ -1,4 +1,5 @@
 # Icons For Personal Use
+---
 ## Font Awesome
 Font Awesome has 5 fonts. Four fonts for each icon in four styles and fifth font for brand logos.
 
@@ -12,7 +13,7 @@ Font Awesome has 5 fonts. Four fonts for each icon in four styles and fifth font
 
 __URL - Direct Link__
 ```url
-https://akash-profile.github.io/icons/fontawesome.css
+https://akashprofile.github.io/icons/fontawesome.css
 ```
 
 __Syntax__
@@ -21,20 +22,22 @@ __Syntax__
 ```
 Each icon is an inline-block level element.
 
+---
 ## Material Icons
+
+```url
+https://akashprofile.github.io/icons/material-icons.css
+```
+
 It has five fonts for five styles of every icon.
+
 |Font Name|Class Name|
 |---|-----|
-|Material Icons Outlined|outlined|
-|Material Icons Rounded|rounded|
-|Material Icons Filled|filled|
-|Material Icons Sharp|sharp|
-|Material Icons Two Tone|two-tone|
-
-__URL - Direct Link__
-```url
-https://akash-profile.github.io/icons/material-icons.css
-```
+|Material Icons Outlined|mi-outlined|
+|Material Icons Rounded|mi-rounded|
+|Material Icons Filled|mi-filled|
+|Material Icons Sharp|mi-sharp|
+|Material Icons Two Tone|mi-two-tone|
 
 __Syntax__
 ```html
@@ -42,18 +45,22 @@ __Syntax__
 ```
 Each icon is an inline-block level element.
 
+---
+
 ## Material Symbols
+
+```url
+https://akashprofile.github.io/icons/material-symbols.css
+```
+
 It has three fonts for three styles.
+
 |Font Name|Class Name|
 |---|-----|
 |Material Symbols Outlined|outlined|
 |Material Symbols Rounded|rounded|
 |Material Symbols Filled|filled|
 
-__URL - Direct Link__
-```url
-https://akash-profile.github.io/icons/material-symbols.css
-```
 __Syntax__
 ```html
 <i class="ms-class_name">ligature_name</i>
