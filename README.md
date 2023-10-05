@@ -57,9 +57,9 @@ It has three fonts for three styles.
 
 |Font Name|Class Name|
 |---|-----|
-|Material Symbols Outlined|outlined|
-|Material Symbols Rounded|rounded|
-|Material Symbols Filled|filled|
+|Material Symbols Outlined|mi-outlined|
+|Material Symbols Rounded|mi-rounded|
+|Material Symbols Filled|mi-filled|
 
 __Syntax__
 ```html
