@@ -41,7 +41,7 @@ It has five fonts for five styles of every icon.
 
 __Syntax__
 ```html
-<i class="mi-class_name">ligature_name</i>
+<i class="class_name">ligature_name</i>
 ```
 Each icon is an inline-block level element.
 
@@ -63,7 +63,7 @@ It has three fonts for three styles.
 
 __Syntax__
 ```html
-<i class="ms-class_name">ligature_name</i>
+<i class="class_name">ligature_name</i>
 ```
 Each icon is an inline-block level element. Every icon supports four variations
 |Variable Axis|Description|
