@@ -59,7 +59,7 @@ It has three fonts for three styles.
 |---|-----|
 |Material Symbols Outlined|ms-outlined|
 |Material Symbols Rounded|ms-rounded|
-|Material Symbols Filled|ms-filled|
+|Material Symbols Sharp|ms-sharp|
 
 __Syntax__
 ```html
